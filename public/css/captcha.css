@@ -1,0 +1,49 @@
+#recaptcha_widget{
+	border: 1px solid #ccc;
+	padding: 10px 10px 10px 10px;
+	width: 320px;
+	position: relative;
+	float: left;
+}
+
+#recaptcha_response_field{
+	width: 290px;
+	border: 1px solid #ccc;
+	padding: 2px;
+	margin: 10px auto;
+}
+
+.v-btn-loading{
+	background: url("../img/default.gif") 1px 3px no-repeat  #0988CB;;
+	height:30px;
+	margin-top:5px;
+	border:0px;color:#fff;
+	border-radius:2px;
+	float:left;
+	margin-right: 5px;
+	cursor:default;
+	padding-left: 25px;
+}
+
+.v-btn{
+	background: #0988CB;
+	height:30px;
+	margin-top:5px;
+	border:0px;color:#fff;
+	border-radius:2px;
+	float:left;
+	margin-right: 5px;
+	cursor:none;
+}
+
+#var-div img{
+	float: left;
+	margin: 0px;
+}
+
+#var-div h4{
+	float: left;
+	font-family: "Whitney SSm A","Whitney SSm B",verdana,"Lucida Grande",sans-serif;
+	margin: 12px 0px 0px 5px;
+	color: rgba(0, 0, 0, 0.5);
+}

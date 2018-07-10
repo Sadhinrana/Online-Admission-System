@@ -1,0 +1,1 @@
+<a href="http://just.edu.bd/just/undergraduate/n17_9_15.pdf"> Click here to download admission circular </a>

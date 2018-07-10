@@ -1,0 +1,1 @@
+<h2>There is no notice right now.</h2>
